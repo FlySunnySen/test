@@ -1,28 +1,12 @@
 {
-    "name": "topthink/think",
-    "description": "the new thinkphp framework",
-    "type": "project",
-    "keywords": [
-        "framework",
-        "thinkphp",
-        "ORM"
-    ],
-    "homepage": "http://thinkphp.cn/",
-    "license": "Apache-2.0",
+    "name": "sen/test",
+    "description": "this is study project",
+    "license": "mit",
     "authors": [
         {
-            "name": "liu21st",
-            "email": "liu21st@gmail.com"
+            "name": "sunny Sen",
+            "email": "274818439@qq.com"
         }
     ],
-    "require": {
-        "php": ">=5.4.0",
-        "topthink/framework": "^5.0"
-    },
-    "extra": {
-        "think-path": "thinkphp"
-    },
-    "config": {
-        "preferred-install": "dist"
-    }
+    "require": {}
 }
