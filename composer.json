@@ -1,0 +1,12 @@
+{
+    "name": "fly-sunny-sen/test",
+    "description": "this is study project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "sunny Sen",
+            "email": "274818439@qq.com"
+        }
+    ],
+    "require": {}
+}
